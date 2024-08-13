@@ -86,6 +86,6 @@ class __TwigTemplate_1c99d995c06b666f6ba4770dc57f553a extends \Twig\Template
 
     public function getSourceContext()
     {
-        return new Source("", "navigation/tree/path.twig", "C:\\Users\\nemo\\Documents\\usbwebserver\\phpmyadmin\\templates\\navigation\\tree\\path.twig");
+        return new Source("", "navigation/tree/path.twig", "C:\\Users\\User\\Documents\\Search-Engine-Project\\usbwebserver\\phpmyadmin\\templates\\navigation\\tree\\path.twig");
     }
 }

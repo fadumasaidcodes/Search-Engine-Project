@@ -542,6 +542,6 @@ function extendingValidatorMessages () {
 
     public function getSourceContext()
     {
-        return new Source("", "javascript/variables.twig", "C:\\Users\\nemo\\Documents\\usbwebserver\\phpmyadmin\\templates\\javascript\\variables.twig");
+        return new Source("", "javascript/variables.twig", "C:\\Users\\User\\Documents\\Search-Engine-Project\\usbwebserver\\phpmyadmin\\templates\\javascript\\variables.twig");
     }
 }
